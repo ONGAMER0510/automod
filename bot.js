@@ -66,4 +66,4 @@ client.on("message", msg => {
 
 });
 
-client.login(config.token);
+client.login(config.NzQ4MDU0NDgxNzI3Mzg5Njk3.X0X2Bg.xPc-bZFudwWFIN2kRRcNBvybe3E);
